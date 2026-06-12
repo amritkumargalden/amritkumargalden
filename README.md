@@ -1,120 +1,83 @@
-```md id="0axm1z"
 <div align="center">
 
-# 👋 Hey, I'm Amrit Galden
+# ✦ Amrit Kumar Galden Tamang ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%26+Tech+Lover;Always+Learning+New+Things" />
+*IT student · Web developer · Forever curious*
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amritkumargalden/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amritkumargalden/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amritkumargalden)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritkumargaldentamang@gmail.com)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👋 Hey there, I'm Galden
 
-💻 Passionate developer who loves building cool things  
-🚀 Currently learning **AI / Web Development / DevOps / Software Engineering**  
-🎯 Goal: Contribute more to Open Source  
-⚡ Fun fact: I debug faster after coffee ☕
+I'm a **Bachelor of Information Technology** student at Purbanchal University, Kathmandu 🇳🇵  
+Building things on the web, learning a little bit of everything, and chasing growth — one commit at a time.
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/amritkumargalden">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/amritkumargalden">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:amritkumargaldentamang@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+> *"My goal has always been to be better than what I was in the past."*
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ What I Work With
 
-<div align="center">
+**Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,github,linux,vscode,docker" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+**Databases & Tools**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats
+**Exploring**
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
-
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌱 Currently
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
-
-</div>
+- 📚 Studying **IoT, Data Mining & Software Engineering** (Semester VI, BIT)
+- 🐍 Building a **Python for Data Science** learning path
+- 🔨 Working on real-world web projects to grow my portfolio
+- 👀 Open to **part-time / freelance** web development opportunities
 
 ---
 
-# ✨ Random Dev Quote
+## 🤝 A Little About Me Beyond Code
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+- 🏔️ I love **motorcycle rides** through Nepal's mountain roads
+- 🎌 Big fan of **anime** and films
+- 🎤 Helped organise a **poetry competition** at Manaslu World College, Chabahil — brought in colleges from across the Kathmandu Valley
+- 🌐 Volunteered at **AIESEC in Kathmandu**, supporting international exchange participants
+- 📡 Genuinely fascinated by **telecom infrastructure** — satellites, towers, and how the internet actually works
 
 ---
 
-# 🐍 Contribution Snake
+## 📬 Let's Connect
 
-<div align="center">
+I'm always happy to talk tech, collaborate on projects, or just say hello.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+📧 **amritkumargaldentamang@gmail.com**  
+📍 Tarakeshwor-4, Kathmandu, Nepal
 
 ---
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+*Thanks for stopping by ✨*
 
 </div>
-```
